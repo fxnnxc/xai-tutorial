@@ -1,5 +1,7 @@
 # xai-tutorial
 
+A repository for e**X**planable **A**rtificial **I**ntelligence(XAI) tutorial. 
+
 
 ```bash
 📦 xai-tutorial

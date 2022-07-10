@@ -17,11 +17,9 @@ A repository for e**X**planable **A**rtificial **I**ntelligence(XAI) tutorial.
  ┃ ┗ 🪐 CRP.ipynb ✅
  ┣ 📂 src  # Stores Runable configs for experiments 
  ┃ ┣ 📂 xai # xai related scripts
- ┃ ┃ ┣ 🐍 lrp.py  # implementation of lrp 
- ┃ ┃ ┣ 🐍 crp.py  # implementation of lrp 
- ┃ ┃ ┣ 🐍 lime.py # implementaiton of lime  
+ ┃ ┃ ┣ 📂 lrp  # implementation of lrp 
  ┃ ┃ ┣ 🐍 shapley.py # 
- ┃ ┃ ┗ 🐍 exp3      
+ ┃ ┃ ┗ 🐍 data.py      
  ┃ ┗ 📂 misc
  ┃ ┃ ┣ 🐍 cnn_model.py   
  ┃ ┃ ┣ 🐍 fcn_model.py  

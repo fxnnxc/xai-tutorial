@@ -13,7 +13,7 @@ A repository for e**X**planable **A**rtificial **I**ntelligence(XAI) tutorial.
  ┃ ┣ 🪐 IndividualConditionalExpectation.ipynb ✅
  ┃ ┣ 🪐 Shapley.ipynb ❌
  ┃ ┣ 🪐 GaussianProcess.ipynb ✅
- ┃ ┣ 🪐 ActivationMaximiazeion.ipynb  ❌
+ ┃ ┣ 🪐 Deep-Dream.ipynb  ✅
  ┃ ┣ 🪐 LRP.ipynb ✅
  ┃ ┗ 🪐 CRP.ipynb ✅
  ┣ 📂 src  # Stores Runable configs for experiments 
@@ -27,6 +27,9 @@ A repository for e**X**planable **A**rtificial **I**ntelligence(XAI) tutorial.
  ┃ ┃ ┗ 🐍 utils.py   
  ┣ 📂 data  # Stores Runable configs for experiments 
  ┃ ┣ ｛..｝imagenet_label.json  # implementation of lrp 
+ ┃ ┣  🖼️ mona_lisa_dd.jpg # Image data for deep dream
+ ┃ ┣  🖼️ sky_dd.jpeg      # Image data for deep dream
+ ┃ ┗  🖼️ flowers_dd.jpg   # Image data for deep dream
  ┣ 📜 .gitignore
  ┣ 📜 LICENSE
  ```

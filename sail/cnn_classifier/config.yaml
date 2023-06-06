@@ -1,0 +1,5 @@
+device : "cuda:0"
+epochs : 5
+batch_size : 64
+learning_rate : 1e-4
+save_epochs : 2

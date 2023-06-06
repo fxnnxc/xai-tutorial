@@ -1,0 +1,13 @@
+img_size: [1, 28, 28]
+batch_size: 256 
+maxlen: 8192
+lagevian_steps: 20
+lagevian_step_size: 10.0
+alpha : 1.0
+epochs: 20
+learning_rate : 1e-4
+objective: cd
+cnn_dim : 256
+avg_pool_size : 3
+in_channels : 1
+learning_rate_decay: 1.0

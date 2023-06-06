@@ -1,0 +1,21 @@
+num_classes: 10
+batch_size: 256
+cnn_dim : 256
+avg_pool_size : 3
+in_channels : 1
+
+epoch_num: 30
+save_epochs : 6
+learning_rate: 3e-4
+learning_rate_decay : 1.0
+
+
+lagevian_steps: 20 
+lagevian_step_size: 10.0
+binomial: 0.25
+
+dropout_p : 0.5
+ce_coeff: 1.0
+pos_ent_coeff : 1.0
+neg_ent_coeff : 1.0
+
